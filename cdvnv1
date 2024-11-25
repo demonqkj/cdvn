@@ -58,7 +58,7 @@
             end
      end
     )
-w1:AddTextbox({
+    w1:AddTextbox({
 	Name = "Hitbox",
 	Default = "",
 	TextDisappear = true,
