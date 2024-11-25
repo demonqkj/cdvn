@@ -99,7 +99,6 @@ end
 end
 end
 end)
-	end	  
-})
+	end
 
     w1:Label("Made By thdanh")
