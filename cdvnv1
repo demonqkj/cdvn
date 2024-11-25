@@ -58,7 +58,7 @@
             end
      end
     )
-Tab:AddTextbox({
+w1:AddTextbox({
 	Name = "Hitbox",
 	Default = "",
 	TextDisappear = true,
