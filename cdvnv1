@@ -58,11 +58,5 @@
             end
      end
     )
-    w1:Button(
-        "Hitbox",
-        function()
-            local module = loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
-             end
-      end
-   )
+
     w1:Label("Made By thdanh")
