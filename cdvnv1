@@ -26,7 +26,7 @@
        end
      end
     end)
-    w1:Label("Cua Hang")
+    w1:Label("Cửa Hàng")
     SoluongBangGac = 1
     w1:Slider(
         "Count :",
