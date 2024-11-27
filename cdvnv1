@@ -1,5 +1,6 @@
 
     local library = loadstring(game.HttpGet(game, "https://raw.githubusercontent.com/VNT-UNIVERSAL/MyCode/main/UILib"))()
+    local a local aa,ab,ac,ad,ae,ag,ah,ao,ap,as,at,au,av,aw,ax,ay,az,C,H,I={function()
     local w1 = library:Window("CDVN - V1.0")
     w1:Toggle(
         "Auto Lay Bang Gac",
