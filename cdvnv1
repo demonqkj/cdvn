@@ -27,8 +27,7 @@
        end
      end
     end)
-    w1:Toogle(Nhat Nhanh)
-    ae:AddDivider()ae:AddToggle('InstaInteract',{Text='Instant Interact',Default=false})
+    ae:AddToggle('InstaInteract',{Text='Instant Interact',Default=false})
     w1:Label("Cửa Hàng")
     SoluongBangGac = 1
     w1:Slider(
